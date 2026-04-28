@@ -1,17 +1,15 @@
-# 📊 Análisis de Ventas con Python
+# 📊 Sales Analysis - Local Business
 
-## Objetivo
-Analizar datos de ventas para encontrar productos más vendidos y horarios pico.
+Real March 2026 sales data analysis from a food & beverage business.
 
-## Herramientas usadas
+## Tools
 - Python
 - Pandas
 - Matplotlib
+- Excel
 
-## Resultados esperados
-- Producto más vendido
-- Ventas por día
-- Tendencias mensuales
-
-## Autor
-Sebastián Moreno
+## Results
+- $106,615 MXN sales
+- 1,983 units sold
+- Top products identified
+- Revenue by category analyzed
