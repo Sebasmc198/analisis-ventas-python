@@ -23,4 +23,4 @@ Real March 2026 sales data analysis from a food & beverage business.
 ![Categorias](imagenes/categorias.png)
 
 ### Pareto Analysis
-![Pareto](images/pareto.png)
+![Pareto](imagenes/pareto.png)
