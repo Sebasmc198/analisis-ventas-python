@@ -17,10 +17,10 @@ Real March 2026 sales data analysis from a food & beverage business.
 ## 📊 Visualizations
 
 ### Top Products
-![Top productos].(imagenes/top10_productos.png).
+![Top productos].(images/top10_productos.png).
 
 ### Sales by Category
-![Categorias](imagenes/categorias.png)
+![Categorias](images/categorias.png)
 
 ### Pareto Analysis
-![Pareto](imagenes/pareto.png)
+![Pareto](images/pareto.png)
